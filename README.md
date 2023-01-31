@@ -4,7 +4,7 @@
 1. Run either `npm i`, `npm install` or `yarn` to install dependancies.
 2. Run `npm start` or `yarn start` to run the app.
 
-## App that fetches (public) user gists from Github
+##
 
 It uses Github's [Octokit REST API](https://octokit.github.io/rest.js/v18/)
 
