@@ -18,4 +18,5 @@ It uses Github's [Octokit REST API](https://octokit.github.io/rest.js/v18/)
 * Error handling
 * Skeleton loader for loading state.
 * Optimised rendering.
+* Use <b>Styled Components</b> for component styling.
 * <b>TypeScript</b> implementation
