@@ -12,10 +12,10 @@ It uses Github's [Octokit REST API](https://octokit.github.io/rest.js/v18/)
 * Create a list of public gist available.
 * Search Gists for the username.
 * Use <b>Redux Toolkit</b> for state management.
-* Show all the relevant meta data available in the response.
+* Show all the relevant metadata available in the response.
 * Create and use proper component hierarchy keeping service and components exclusive.
 * Error handling
 * Skeleton loader for loading state.
-* Optimised rendering.
+* Optimized rendering.
 * Use <b>Styled Components</b> for component styling.
 * <b>TypeScript</b> implementation
